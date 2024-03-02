@@ -48,7 +48,7 @@
 
 ### Setup
 
-1. [Download source code zip][https://github.com/Neynooo/nenyoo-modd-menu](https://github.com/Neynooo/Nenyooo)]
+1. [Download source code zi(https://github.com/Neynooo/Nenyooo)
 2. Extract zip
 3. Run `Nenyoo v1.0.3028.0.8.exe`
 4. install the modd menu by clicking the ` fresh install `
